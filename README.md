@@ -2,7 +2,7 @@
 
 [Swat Analytic Basic](https://mackykavinsky.shinyapps.io/swat-analytic-basic/)
 
-![interface](basic.png)
+![interface](basic1.png)
 
 This project was collaborated in our team, where i am handling with the framework of the application, data browser module and assisting in data statistics. 
 ---
@@ -22,11 +22,11 @@ The functionality available using this application is:
 
 This module is for importing data module. User can check their dataset through Data Browse tabs.
 
-![data-browse1](databrowse1.png)
+![data-browse1](databrowser1.png)
 
 For the specific data type for each column at Data Structure.
 
-![data-browse2](databrowse2.png)
+![data-browse2](databrowser2.png)
 
 ---
 
