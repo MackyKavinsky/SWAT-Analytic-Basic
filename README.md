@@ -4,7 +4,7 @@
 
 ![interface](basic1.png)
 
-###This project was collaborated in our team of 3 people.
+### This project was collaborated in our team of 3 people.
 
 Where i am handling with the framework of the application, data browser module and assisting in data statistics. 
 
