@@ -1,3 +1,3 @@
 # SWAT-Analytic-Basic
 
-https://mackykavinsky.shinyapps.io/swat-analytic-basic/
+[swat analytic basic](https://mackykavinsky.shinyapps.io/swat-analytic-basic/)
