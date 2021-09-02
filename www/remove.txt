@@ -1,0 +1,19 @@
+
+#  data <- reactive({
+#    if(input$filetype=="xls file"){
+#      inFile <- input$file1
+#      if (is.null(inFile))
+#        return()
+#      a<-read_excel(inFile$datapath, sheetIndex=1,header =TRUE)
+#      as.data.frame(a)
+#    }
+#    else if(input$filetype=="xlsx file"){
+#      file1 <- read_xlsx(file1,1)
+#      }  
+#    else{
+#      inFile <- input$file1
+#      if (is.null(inFile))
+#        return()
+#      a<-read.csv(inFile$datapath,header =TRUE,stringsAsFactors = TRUE)
+#      as.data.frame(a)
+#    }})

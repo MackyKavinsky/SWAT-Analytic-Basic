@@ -1,0 +1,13 @@
+name: swat-analytic-basic
+title: swat-analytic-basic
+username:
+account: mackykavinsky
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4578182
+bundleId: 4992012
+url: https://mackykavinsky.shinyapps.io/swat-analytic-basic/
+when: 1630565385.74765
+lastSyncTime: 1630565385.74765
+asMultiple: FALSE
+asStatic: FALSE
